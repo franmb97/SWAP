@@ -1,2 +1,2 @@
 # SWAP
-Ejercicios, Practiicas y Trabajo SWAP 2017/18
+Ejercicios, Practicas y Trabajo SWAP 2017/18
