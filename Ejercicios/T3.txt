@@ -1,0 +1,12 @@
+-Ejercicio T3.1
+Buscar con que ordenes de terminal o herramientas graficas podemos confidurar bajo windows y bajo linux el
+enrutamiento del trafico de un servidor para pasar el trafico desde una subred a otra.
++En linux lo podemos configurar usando las reglas en iptables, mientras que en windows lo realizamos
+mediante el comando route.
+
+
+-Ejercicio T3.2
+Buscar con que ordenes de terminal o herramientas graficas podemos configurar bajo windows y bajo linux el 
+filtrado y bloqueo de paquetes
++En linux lo podemos configurar definiendo reglas en iptables, mientras que en windows lo filtramos con el 
+firewall.
